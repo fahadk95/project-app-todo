@@ -1,0 +1,3 @@
+To print date and time
+import time
+time.strf("%m - %Y")
