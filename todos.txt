@@ -1,7 +1,5 @@
-fahad
-newest
-fahad
-fahad
-go to hell
-45
-
+my first todo app
+added complete button
+added edit button
+now giving some finish touch
+then will make a web app
