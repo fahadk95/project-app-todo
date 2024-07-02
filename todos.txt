@@ -1,6 +1,0 @@
-my first todo app
-added complete button
-added edit button
-now giving some finish touch
-then will make a web app
-
